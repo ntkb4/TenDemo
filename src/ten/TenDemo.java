@@ -7,11 +7,11 @@ public class TenDemo {
 		System.out.println("Demo...");
 		
 
-		int a = 102;
-		int b = 202;
+		int x = 444;
+		int y = 333;
 		
 
-		System.out.println(a+b);
+		System.out.println(x+y);
 	}
 
 }
