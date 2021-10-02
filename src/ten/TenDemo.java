@@ -6,10 +6,10 @@ public class TenDemo {
 
 		System.out.println("Demo...");
 		
-		int a = 10;
-		int b = 20;
+		int aa = 102;
+		int bb = 202;
 		
-		System.out.println(a+b);
+		System.out.println(aa+bb);
 	}
 
 }
